@@ -1,7 +1,7 @@
 # timeout
 timeout = "1200s"
 # your website url
-baseURL = 'https://roscoe.me'
+baseURL = 'https://iwbas.github.io/myshit'
 # website title
 title = 'roscoe'
 # don't touch this
