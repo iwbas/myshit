@@ -1,0 +1,4 @@
+baseURL = 'https://roscoe.me/'
+languageCode = 'en-us'
+title = 'roscoe'
+theme = 'bridget'
